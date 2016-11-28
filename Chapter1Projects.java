@@ -6,12 +6,8 @@ public class Chapter1Projects
 {
   public static void main(String[] args)
   {
-    
     //Project 1.1 (I added newline to space out the projects in the output space)
     System.out.println("An Emergency Broadcast\n");
-    
-    
-    //Project 1.2 is on email
     
     //Project 1.3
     System.out.println("Name: Jason Zheng");
@@ -29,9 +25,6 @@ public class Chapter1Projects
     System.out.println("  *****  ");
     System.out.println("   ***   ");
     System.out.println("    *    ");
-    
-    
-   
   }
 }
 
