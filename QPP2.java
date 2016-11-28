@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class QPP2 {
  
   public static void main(String args[]) {
@@ -97,9 +96,5 @@ public class QPP2 {
      
      System.out.println("The decimal equivalent of the fraction is " + decimal);
      
-    
-     
-    
-        
   }
 }
